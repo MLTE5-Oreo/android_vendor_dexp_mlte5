@@ -89,7 +89,6 @@ PRODUCT_COPY_FILES += \
     vendor/DEXP/MLTE5/proprietary/vendor/lib/libFlacSwDec.so:system/vendor/lib/libFlacSwDec.so \
     vendor/DEXP/MLTE5/proprietary/vendor/lib/libflp.so:system/vendor/lib/libflp.so \
     vendor/DEXP/MLTE5/proprietary/vendor/lib/libgeofence.so:system/vendor/lib/libgeofence.so \
-    vendor/DEXP/MLTE5/proprietary/vendor/lib/libHevcSwDecoder.so:system/vendor/lib/libHevcSwDecoder.so \
     vendor/DEXP/MLTE5/proprietary/vendor/lib/libI420colorconvert.so:system/vendor/lib/libI420colorconvert.so \
     vendor/DEXP/MLTE5/proprietary/vendor/lib/libidl.so:system/vendor/lib/libidl.so \
     vendor/DEXP/MLTE5/proprietary/vendor/lib/libizat_core.so:system/vendor/lib/libizat_core.so \
