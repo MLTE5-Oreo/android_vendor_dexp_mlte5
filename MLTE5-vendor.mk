@@ -80,7 +80,6 @@ PRODUCT_COPY_FILES += \
     vendor/DEXP/MLTE5/proprietary/vendor/lib/libdiag.so:system/vendor/lib/libdiag.so \
     vendor/DEXP/MLTE5/proprietary/vendor/lib/libdisp-aba.so:system/vendor/lib/libdisp-aba.so \
     vendor/DEXP/MLTE5/proprietary/vendor/lib/libDivxDrm.so:system/vendor/lib/libDivxDrm.so \
-    vendor/DEXP/MLTE5/proprietary/vendor/lib/lib-dplmedia.so:system/vendor/lib/lib-dplmedia.so \
     vendor/DEXP/MLTE5/proprietary/vendor/lib/libdrmfs.so:system/vendor/lib/libdrmfs.so \
     vendor/DEXP/MLTE5/proprietary/vendor/lib/libdrmtime.so:system/vendor/lib/libdrmtime.so \
     vendor/DEXP/MLTE5/proprietary/vendor/lib/libdsi_netctrl.so:system/vendor/lib/libdsi_netctrl.so \
