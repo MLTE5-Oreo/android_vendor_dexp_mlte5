@@ -162,8 +162,6 @@ PRODUCT_COPY_FILES += \
     vendor/DEXP/MLTE5/proprietary/vendor/lib/libthermalioctl.so:system/vendor/lib/libthermalioctl.so \
     vendor/DEXP/MLTE5/proprietary/vendor/lib/libTimeService.so:system/vendor/lib/libTimeService.so \
     vendor/DEXP/MLTE5/proprietary/vendor/lib/libwqe.so:system/vendor/lib/libwqe.so \
-    vendor/DEXP/MLTE5/proprietary/vendor/lib/libwvdrm_L3.so:system/vendor/lib/libwvdrm_L3.so \
-    vendor/DEXP/MLTE5/proprietary/vendor/lib/libWVStreamControlAPI_L3.so:system/vendor/lib/libWVStreamControlAPI_L3.so \
     vendor/DEXP/MLTE5/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so \
     vendor/DEXP/MLTE5/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
     vendor/DEXP/MLTE5/proprietary/vendor/lib/soundfx/libqcbassboost.so:system/vendor/lib/soundfx/libqcbassboost.so \
