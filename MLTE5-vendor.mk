@@ -24,18 +24,20 @@ PRODUCT_COPY_FILES += \
     vendor/DEXP/MLTE5/proprietary/etc/firmware/venus.mdt:system/etc/firmware/venus.mdt
 
 PRODUCT_COPY_FILES += \
-    vendor/DEXP/MLTE5/proprietary/bin/adsprpcd:system/bin/adsprpcd \
-    vendor/DEXP/MLTE5/proprietary/bin/btnvtool:system/bin/btnvtool \
-    vendor/DEXP/MLTE5/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
-    vendor/DEXP/MLTE5/proprietary/bin/irsc_util:system/bin/irsc_util \
-    vendor/DEXP/MLTE5/proprietary/bin/mm-pp-daemon:system/bin/mm-pp-daemon \
-    vendor/DEXP/MLTE5/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
-    vendor/DEXP/MLTE5/proprietary/bin/netmgrd:system/bin/netmgrd \
-    vendor/DEXP/MLTE5/proprietary/bin/qmuxd:system/bin/qmuxd \
-    vendor/DEXP/MLTE5/proprietary/bin/qseecomd:system/bin/qseecomd \
-    vendor/DEXP/MLTE5/proprietary/bin/radish:system/bin/radish \
-    vendor/DEXP/MLTE5/proprietary/bin/rmt_storage:system/bin/rmt_storage \
-    vendor/DEXP/MLTE5/proprietary/bin/time_daemon:system/bin/time_daemon \
+    vendor/DEXP/MLTE5/proprietary/vendor/bin/adsprpcd:system/vendor/bin/adsprpcd \
+    vendor/DEXP/MLTE5/proprietary/vendor/bin/btnvtool:system/vendor/bin/btnvtool \
+    vendor/DEXP/MLTE5/proprietary/vendor/bin/hci_qcomm_init:system/vendor/bin/hci_qcomm_init \
+    vendor/DEXP/MLTE5/proprietary/vendor/bin/irsc_util:system/vendor/bin/irsc_util \
+    vendor/DEXP/MLTE5/proprietary/vendor/bin/mm-pp-daemon:system/vendor/bin/mm-pp-daemon \
+    vendor/DEXP/MLTE5/proprietary/vendor/bin/mm-qcamera-daemon:system/vendor/bin/mm-qcamera-daemon \
+    vendor/DEXP/MLTE5/proprietary/vendor/bin/netmgrd:system/vendor/bin/netmgrd \
+    vendor/DEXP/MLTE5/proprietary/vendor/bin/perfd:system/vendor/bin/perfd \
+    vendor/DEXP/MLTE5/proprietary/vendor/bin/qmuxd:system/vendor/bin/qmuxd \
+    vendor/DEXP/MLTE5/proprietary/vendor/bin/qseecomd:system/vendor/bin/qseecomd \
+    vendor/DEXP/MLTE5/proprietary/vendor/bin/radish:system/vendor/bin/radish \
+    vendor/DEXP/MLTE5/proprietary/vendor/bin/rmt_storage:system/vendor/bin/rmt_storage \
+    vendor/DEXP/MLTE5/proprietary/vendor/bin/time_daemon:system/vendor/bin/time_daemon \
+    vendor/DEXP/MLTE5/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
     vendor/DEXP/MLTE5/proprietary/etc/data/dsi_config.xml:system/etc/data/dsi_config.xml \
     vendor/DEXP/MLTE5/proprietary/etc/data/netmgr_config.xml:system/etc/data/netmgr_config.xml \
     vendor/DEXP/MLTE5/proprietary/etc/firmware/a300_pfp.fw:system/etc/firmware/a300_pfp.fw \
@@ -48,8 +50,6 @@ PRODUCT_COPY_FILES += \
     vendor/DEXP/MLTE5/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
     vendor/DEXP/MLTE5/proprietary/lib/libOmxVdecHevc.so:system/lib/libOmxVdecHevc.so \
     vendor/DEXP/MLTE5/proprietary/lib/libwcnss_qmi.so:system/lib/libwcnss_qmi.so \
-    vendor/DEXP/MLTE5/proprietary/vendor/bin/perfd:system/vendor/bin/perfd \
-    vendor/DEXP/MLTE5/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
     vendor/DEXP/MLTE5/proprietary/vendor/lib/hw/flp.default.so:system/vendor/lib/hw/flp.default.so \
     vendor/DEXP/MLTE5/proprietary/vendor/lib/libacdb-fts.so:system/vendor/lib/libacdb-fts.so \
     vendor/DEXP/MLTE5/proprietary/vendor/lib/libacdbloader.so:system/vendor/lib/libacdbloader.so \
